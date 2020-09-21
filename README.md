@@ -20,4 +20,4 @@ Global Sortware Contest
 ### Github Stats Card 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=contail)](https://github.com/anuraghazra/github-readme-stats)
-https://solved.ac/profile/contail
+
