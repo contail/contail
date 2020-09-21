@@ -10,7 +10,7 @@
 ![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=contail)
 
 
-### Reward List
+### Award List
 
 Global Sortware Contest
 * Second prize (Minister’s award)
