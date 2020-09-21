@@ -1,16 +1,23 @@
-### Hi there 👋
+### Skills
 
-<!--
-**contail/contail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* language : Ruby, Python, Typescript, Java, C++
+* frameworks : Rails, Django, React
 
-Here are some ideas to get you started:
+### Problem Solving
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* [Baekjoon Online Judge](https://acmicpc.net/user/contail)
+
+![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=contail)
+
+
+### Reward List
+
+Global Sortware Contest
+* Second prize (Minister’s award)
+* - Face recognition and automatic mosaic processing using AI
+
+
+### Github Stats Card 
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=contail)](https://github.com/anuraghazra/github-readme-stats)
+https://solved.ac/profile/contail
